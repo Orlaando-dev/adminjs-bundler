@@ -7,7 +7,7 @@ process.env.NODE_ENV = 'production';
 
 const ADMINJS_LOCAL_DIR_PATH = '.adminjs';
 const ADMINJS_ASSETS_DIR_PATH = 'node_modules/adminjs/lib/frontend/assets/scripts';
-const DESIGN_SYSTEM_DIR_PATH = 'node_modules/@adminjs/design-system';
+const DESIGN_SYSTEM_DIR_PATH = 'node_modules/adminjs/@adminjs/design-system';
 
 /**
  * Options for the bundler
